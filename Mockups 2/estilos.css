@@ -1,0 +1,46 @@
+.nav2 {
+float: right;
+margin-right : 10px;
+font-size : 14px;
+line-height : 44px;
+text-align : center;
+text-decoration : none;
+color : #ccc;
+background-color: #eeeeee;
+border: 1px solid orange;
+
+}
+
+.recuadro {
+
+background-color: #eeeeee;
+border: 1px solid orange;    
+}
+
+img.peque
+{
+  
+  width: 150px; 
+  height: 200px;
+  border: 1px solid #777;
+ 
+}
+
+label.descripeli{
+  margin 2%;
+  font-size:15px;
+  display:block;
+  padding:10px;
+ text-align:center;
+ font-style:italic;
+ padding:10px;
+line-height:normal;
+}
+
+#copyright {
+float: right;
+margin-right: 20px;
+}
+.opciones {
+    float: left;
+    margin-left: 500px;}
